@@ -1,0 +1,10 @@
+C:\Programy\Kod\ASD\PS0506\AlgorytmDijkstry\bin\Debug\netcoreapp3.1\AlgorytmDijkstry.exe
+C:\Programy\Kod\ASD\PS0506\AlgorytmDijkstry\bin\Debug\netcoreapp3.1\AlgorytmDijkstry.deps.json
+C:\Programy\Kod\ASD\PS0506\AlgorytmDijkstry\bin\Debug\netcoreapp3.1\AlgorytmDijkstry.runtimeconfig.json
+C:\Programy\Kod\ASD\PS0506\AlgorytmDijkstry\bin\Debug\netcoreapp3.1\AlgorytmDijkstry.runtimeconfig.dev.json
+C:\Programy\Kod\ASD\PS0506\AlgorytmDijkstry\bin\Debug\netcoreapp3.1\AlgorytmDijkstry.dll
+C:\Programy\Kod\ASD\PS0506\AlgorytmDijkstry\bin\Debug\netcoreapp3.1\AlgorytmDijkstry.pdb
+C:\Programy\Kod\ASD\PS0506\AlgorytmDijkstry\obj\Debug\netcoreapp3.1\AlgorytmDijkstry.AssemblyInfoInputs.cache
+C:\Programy\Kod\ASD\PS0506\AlgorytmDijkstry\obj\Debug\netcoreapp3.1\AlgorytmDijkstry.AssemblyInfo.cs
+C:\Programy\Kod\ASD\PS0506\AlgorytmDijkstry\obj\Debug\netcoreapp3.1\AlgorytmDijkstry.dll
+C:\Programy\Kod\ASD\PS0506\AlgorytmDijkstry\obj\Debug\netcoreapp3.1\AlgorytmDijkstry.pdb
